@@ -1,2 +1,4 @@
 __pycache__/
 nokycconfig.ini
+venv/
+*.tar.gz
